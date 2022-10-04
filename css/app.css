@@ -1,0 +1,135 @@
+.header-top {
+    background-color: #1B8F8B;
+    color: #fff;
+    align-items: center;
+    justify-content: center;
+    padding: 40px 50px 150px 50px;
+}
+
+.sub-header {
+    padding-top: 30px;
+    color: #A5ABBD;
+    font-size: 25px;
+}
+
+.sub-hrader-2 {
+    color: #848EA5;
+    font-size: 17px;
+    padding-top: 15px;
+}
+
+.technical {
+    color: #1B8F8B;
+    font-size: 30px;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.card-1 {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    color: #1B8F8B;
+    text-align: center;
+    justify-content: center;
+    height: 200px;
+    display:flex;
+    flex-direction: column;
+    border-radius: 10px;
+    padding: 15px; 
+    margin-bottom: 20px;
+
+}
+.card-2{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color: #E1F1F0;
+    color: #848EA5;
+    text-align: center;
+    justify-content: center;
+    height: 200px;
+    display:flex;
+    flex-direction: column;  
+    border-radius: 10px;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+.card-3{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color: #C6E3E2;
+    color: #8FA3A2;
+    text-align: center;
+    justify-content: center;
+    height: 200px;
+    display:flex;
+    flex-direction: column;  
+    border-radius: 10px; 
+    padding: 15px;
+    margin-bottom: 20px;
+}
+.card-4{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color: #A8D4D3;
+    color: #6B8383;
+    text-align: center;
+    justify-content: center;
+    height: 200px;
+    display:flex;
+    flex-direction: column;  
+    border-radius: 10px; 
+    padding: 15px;
+    margin-bottom: 20px;
+}
+.card-5{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color: #8DC7C5;
+    color: #557170;
+    text-align: center;
+    justify-content: center;
+    height: 200px;
+    display:flex;
+    flex-direction: column;  
+    border-radius: 10px; 
+    padding: 15px; 
+    margin-bottom: 20px;
+}
+.card-6{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color: #22A19D;
+    color: #227472;
+    text-align: center;
+    justify-content: center;
+    height: 200px;
+    display:flex;
+    flex-direction: column;  
+    border-radius: 10px; 
+    padding: 15px; 
+    margin-bottom: 20px;
+}
+
+
+
+/* @media only screen and (max-width: 146px) {
+   .card-1{
+    width: auto;
+    height: auto;
+   }
+   .card-2{
+    width: auto;
+    height: auto;
+   }
+
+.card-3{
+    width: auto;
+    height: auto;
+}
+.card-4{
+    width: auto;
+    height: auto;
+}
+.card-5{
+    width: auto;
+    height: auto;
+}
+.card-6{
+    width: auto;
+    height: auto;
+}
+  } */
